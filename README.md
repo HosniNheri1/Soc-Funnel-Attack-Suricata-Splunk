@@ -9,7 +9,11 @@ Detect a **funnel attack** — the pattern where an attacker first performs reco
 
 ## Demo & Report
 
-- 🎬 **Demo video:** [Project IDS.mp4](https://github.com/HosniNheri1/Soc-Funnel-Attack-Suricata-Splunk/blob/main/Project%20IDS.mp4)
+- 🎬 **Demo video:** [Project IDS.mp4]
+
+https://github.com/user-attachments/assets/df02356f-05a8-4394-8c62-2db4abc77c07
+
+
   
 - 📄 **Illustrated report (HTML):** [Funnel Attack Detection — Suricata & Splunk](https://htmlpreview.github.io/?https://github.com/HosniNheri1/Soc-Funnel-Attack-Suricata-Splunk/blob/main/Funnel%20Attack%20Detection%20%E2%80%94%20Suricata%20%26%20Splunk.html)
 
